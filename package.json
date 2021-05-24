@@ -1,0 +1,19 @@
+{
+  "name": "ms-validation",
+  "version": "1.0.0",
+  "description": "Rq-Rs Validation with support from array of Objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M-Sardari/NestJS-Validation.git"
+  },
+  "author": "Mohammad Sardari <m.sardari@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/M-Sardari/NestJS-Validation/issues"
+  },
+  "homepage": "https://github.com/M-Sardari/NestJS-Validation#readme"
+}
