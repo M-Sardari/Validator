@@ -5,7 +5,7 @@ Rq-Rs Validation with support from array of Objects
 
 ## install
 
-npm install gadin-validation
+npm install gadin-validator
 
 ## usage
 
