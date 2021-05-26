@@ -1,6 +1,6 @@
 {
   "name": "gadin-validator",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "Rq-Rs Validation with support from array of Objects",
   "main": "dist/index.js",
   "scripts": {
