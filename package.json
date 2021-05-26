@@ -1,10 +1,11 @@
 {
-  "name": "ms-validation",
-  "version": "1.0.0",
+  "name": "gadin-validation",
+  "version": "1.0.1",
   "description": "Rq-Rs Validation with support from array of Objects",
   "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -16,7 +17,10 @@
     "url": "https://github.com/M-Sardari/NestJS-Validation/issues"
   },
   "homepage": "https://github.com/M-Sardari/NestJS-Validation#readme",
-  "dependencies": {},
+  "dependencies": {
+    "@nestjs/common": "^7.6.17",
+    "nest-commander": "^1.2.0"
+  },
   "devDependencies": {
     "@types/node": "^15.6.1",
     "reflect-metadata": "^0.1.13",
