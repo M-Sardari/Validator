@@ -1,4 +1,4 @@
-[![Product Name Screen Shot][nestjs-logo]]
+![Product Name Screen Shot][nestjs-logo]
 # Validation
 
 Rq-Rs Validation with support from array of Objects
