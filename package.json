@@ -2,7 +2,7 @@
   "name": "ms-validation",
   "version": "1.0.0",
   "description": "Rq-Rs Validation with support from array of Objects",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/M-Sardari/NestJS-Validation/issues"
   },
-  "homepage": "https://github.com/M-Sardari/NestJS-Validation#readme"
+  "homepage": "https://github.com/M-Sardari/NestJS-Validation#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^15.6.1",
+    "reflect-metadata": "^0.1.13",
+    "typescript": "^4.2.4"
+  }
 }
