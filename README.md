@@ -25,7 +25,7 @@ Checks for a valid value of the given type.
 
     //For array of Objects
 
-    @Validator({ title: 'عنوان', required: true|false, type: 'number' },true)
+    @Validator({ title: 'عنوان', required: true|false, type: 'number' }, true)
 
 
     ## license

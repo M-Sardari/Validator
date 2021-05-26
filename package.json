@@ -1,6 +1,6 @@
 {
   "name": "gadin-validation",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Rq-Rs Validation with support from array of Objects",
   "main": "dist/index.js",
   "scripts": {
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/M-Sardari/NestJS-Validation.git"
+    "url": "git+https://github.com/M-Sardari/Gadin-Validation.git"
   },
   "author": "Mohammad Sardari <m.sardari@live.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/M-Sardari/NestJS-Validation/issues"
+    "url": "https://github.com/M-Sardari/Gadin-Validation/issues"
   },
-  "homepage": "https://github.com/M-Sardari/NestJS-Validation#readme",
+  "homepage": "https://github.com/M-Sardari/Gadin-Validation#readme",
   "dependencies": {
     "@nestjs/common": "^7.6.17",
     "nest-commander": "^1.2.0"
