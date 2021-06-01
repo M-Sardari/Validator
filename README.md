@@ -53,6 +53,6 @@ Checks for a valid value of the given type.
     @Validator({ title: 'عنوان', required: true|false, type: 'number' }, true)
 
 
-    ## license
+## license
 
-    Author: Mohammad Sardari
+Author: Mohammad Sardari
